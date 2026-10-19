@@ -1,0 +1,9 @@
+{
+  "name": "kart-racing-relay",
+  "version": "1.0.0",
+  "description": "KART RACING 멀티플레이 중계 서버 (방 코드)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
